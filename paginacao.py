@@ -1,9 +1,10 @@
-# Thuane França - Projeto 2 SO
+# Projeto 2
+# Sistema Operacional
 # uso paginacao.py 
+#Autor: Thuane França
 
 
 # Algorítimo FIFO 
-
 
 def FIFO(n, paginas): #primeiro a entrar é o primeiro a sair
   quadros = [None for _ in range(n)] 
